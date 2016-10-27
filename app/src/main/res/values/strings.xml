@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartImageUpload</string>
+    <string name="select_image">Select Image</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="app_status">Upload Successfully</string>
+    <string name="app_founder">developed by AndroidHelp</string>
+</resources>
